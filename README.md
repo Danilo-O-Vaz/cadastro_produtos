@@ -1,16 +1,20 @@
-# cadastro_produtos_novo
+# 📦 Cadastro de Produtos – Flutter
 
-A new Flutter project.
+Aplicativo Flutter com formulário interativo para cadastro, listagem e visualização detalhada de produtos. Ideal para estudo de formulários, navegação entre telas, e gerenciamento de estado com `StatefulWidget`.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Formulário completo com validação
+- ✅ Cadastro de produtos com:
+  - Nome, categoria, quantidade, descrição
+  - Preço de compra e venda
+  - Promoção com desconto (%)
+  - Imagem via URL
+  - Status (ativo / inativo)
+- ✅ Exibição em lista com:
+  - Cards estilizados
+  - Detalhamento do produto ao tocar
+  - Destaque de produtos em promoção
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
